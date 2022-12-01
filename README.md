@@ -1,7 +1,7 @@
 Projet réalisé dans le cadre de la fin de ma formation Epitech
 
 Site de mise en relation entre personnes souhaitant réaliser des activités sportive.
-Technologies :
+Technologies :</br>
     - MongoDB
     - Nextjs
     - Tailwind CSS
