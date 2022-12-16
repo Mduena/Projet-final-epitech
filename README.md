@@ -1,6 +1,6 @@
 Projet réalisé dans le cadre de la fin de ma formation Epitech.</br>
 
-Site de mise en relation entre personnes souhaitant réaliser des activités sportive.</br>
+Site de mise en relation entre personnes souhaitant réaliser des activités sportives.</br>
 
 Technologies :</br>
     - MongoDB</br>
